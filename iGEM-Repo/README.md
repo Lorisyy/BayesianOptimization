@@ -1,4 +1,4 @@
-# Bayesian Optimization
+# Bayesian Optimization Used in Bio-Design
 ## Reference 
   Nature Communication: [Towards a fully automated algorithm driven platform for biosystems design](https://pubmed.ncbi.nlm.nih.gov/31723141/)
 ## Dependency
